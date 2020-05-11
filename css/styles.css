@@ -1,0 +1,61 @@
+body{
+    font-family: Tahoma;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    width: 90%;
+    border-color: black;
+    height: .1cm;
+    padding: 1% 2% 2% 10%;
+}
+
+.other-hd{
+  float: right;
+  padding-right: 10%;
+    word-spacing: 1cm;
+    font-size: 80%;
+}
+
+.main-bd{
+    padding: 1% 2% 1% 10% ;   
+}
+
+.pg-hd{
+    padding: 2% 2% 2% 0%;  
+}
+
+.hd-size{
+    font-size: 130%;
+}
+
+.rel-img{
+    padding: 1% 1% 1% 10% ;
+}
+
+.pj-ds{
+    width: 300px;
+    float: right;
+    padding-top: 15px ;  
+    padding-right: 100px;
+}
+
+.last-img{
+    width: 23%;
+    display: inline-block;   
+}
+
+.footer{
+    height: 0.1cm;
+    background-color: black;
+}
+
+.main-img{
+        display: inline-block;
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+}
